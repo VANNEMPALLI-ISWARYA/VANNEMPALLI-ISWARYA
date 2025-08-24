@@ -7,7 +7,6 @@ B.Tech Final-Year-Student
 Highly motivated and fast-learning student with a solid academic foundation. Eager to contribute, grow through real-world experience, and prove myself through dedication, adaptability. Committed to leveraging strong analytical thinking and collaboration skills to drive measurable outcomes in challenging environments.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://https://github.com/VANNEMPALLI-ISWARYA/MY-PORTFOIO-MAIN)
 * ✉️  You can contact me at [ishu43383@gmail.com](mailto:ishu43383@gmail.com)
 * 🧠  I'm learning Java Full Stack
 * 🤝  I'm open to collaborating on Real-world projects
