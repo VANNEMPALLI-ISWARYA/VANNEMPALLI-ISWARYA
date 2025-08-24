@@ -8,8 +8,8 @@ Highly motivated and fast-learning student with a solid academic foundation. Eag
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ishu43383@gmail.com](mailto:ishu43383@gmail.com)
-* 🧠  I'm learning Java Full Stack
-* 🤝  I'm open to collaborating on Real-world projects
+* 🧠  I'm learning Java Full Stack.
+* 🤝  I'm open to collaborating on Real-world projects.
 
 ### Skills
 
